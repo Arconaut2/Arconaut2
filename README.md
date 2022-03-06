@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Arconaut2
+- 👀 I’m interested in Coding, Gamedev and Politics
+- 🌱 I’m currently learning JavaScript and CSS
+- 📫 How to reach me ncif@pm.me or on Twitter @Arconaut2
