@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Arconaut2
-- 👀 I’m interested in Coding, Gamedev and Politics
-- 🌱 I’m currently learning JavaScript and CSS
-- 📫 How to reach me ncif@pm.me or on Twitter https://twitter.com/Arconaut2
+- 👀 I’m interested in Coding and Gamedev
+- 🌱 I’m currently learning Python
+- 📫 How to reach me MuhAkand@proton.me
